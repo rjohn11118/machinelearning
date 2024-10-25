@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F3040542CCA82AF00B988D6 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 3F3040532CCA82AF00B988D6 /* SleepCalculator.mlmodel */; };
 		3FAFDF532CBFFE9C004DDB84 /* machinelearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FAFDF522CBFFE9C004DDB84 /* machinelearningApp.swift */; };
 		3FAFDF552CBFFE9C004DDB84 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FAFDF542CBFFE9C004DDB84 /* ContentView.swift */; };
 		3FAFDF572CBFFEA0004DDB84 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FAFDF562CBFFEA0004DDB84 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F3040532CCA82AF00B988D6 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		3FAFDF4F2CBFFE9C004DDB84 /* machinelearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = machinelearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FAFDF522CBFFE9C004DDB84 /* machinelearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = machinelearningApp.swift; sourceTree = "<group>"; };
 		3FAFDF542CBFFE9C004DDB84 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				3FAFDF522CBFFE9C004DDB84 /* machinelearningApp.swift */,
+				3F3040532CCA82AF00B988D6 /* SleepCalculator.mlmodel */,
 				3FAFDF542CBFFE9C004DDB84 /* ContentView.swift */,
 				3FAFDF562CBFFEA0004DDB84 /* Assets.xcassets */,
 				3FAFDF582CBFFEA0004DDB84 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				3FAFDF552CBFFE9C004DDB84 /* ContentView.swift in Sources */,
 				3FAFDF532CBFFE9C004DDB84 /* machinelearningApp.swift in Sources */,
+				3F3040542CCA82AF00B988D6 /* SleepCalculator.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
